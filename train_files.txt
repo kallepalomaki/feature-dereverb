@@ -1,0 +1,3 @@
+data/train-1.wav
+data/train-2.wav
+data/train-3.wav
